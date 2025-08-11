@@ -4,7 +4,7 @@ Staff Data Scientist at Stack Overflow, exploring how developers actually work w
 
 **Current projects:**
 - 🔍 [Palimpsest](https://github.com/davidgibsonp/palimpsest) - Open source tool tracking real developer-AI problem solving patterns
-- 🧪 [agorithm.xyz](https://agorithm.xyz/) - Quietly working on something
+- 🧪 [agorithm.xyz](https://agorithm.xyz/) - Quietly working on [something](https://agorithm.substack.com/p/coming-soon)
 
 **Past life:** Marketing, recommendation systems, search, NLP. Now asking bigger questions about knowledge creation.
 
