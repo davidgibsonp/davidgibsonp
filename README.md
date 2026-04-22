@@ -2,8 +2,6 @@
 
 Staff Data Scientist at [Stack Overflow](https://stackoverflow.co/), exploring how developers actually work with AI and helping shape how community knowledge supports AI systems.
 
-Founding AI Engineer at [Salley AI](https://www.salley.co/), building enterprise agents that detect project risks through human-AI coordination.
-
 **Side projects:**
 
 - 📐 [Open Specification](https://github.com/davidgibsonp/open-specification) - A standard for defining software in written language so AI coding agents can build from it directly
